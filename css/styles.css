@@ -10957,9 +10957,9 @@ header.masthead .masthead-pp {
   padding-bottom: 2rem;
 }
 header.masthead .masthead-pp img {
-  width: 20%;
   border: 7px solid #e9ecef;
   border-radius: 100%;
+  width: 50%;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
@@ -10992,6 +10992,9 @@ header.masthead .masthead-heading {
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
+  }
+  header.masthead .masthead-pp img {
+    width: 25%;
   }
 }
 #realisations .portfolio-item {
